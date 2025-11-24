@@ -1,0 +1,5 @@
+{
+  "name": "SpriteCraft AI",
+  "description": "Generate, slice, and animate sprite sheets using Gemini 3 Pro and Nano Banana Pro models.",
+  "requestFramePermissions": []
+}
